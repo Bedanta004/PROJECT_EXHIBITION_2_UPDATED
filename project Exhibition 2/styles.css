@@ -60,12 +60,13 @@ body {
 }
 
 .card {
-    background: white;
+    background: #FAF9F6;
     padding: 30px;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 300px;
     text-align: center;
+    height : 500px ;
 }
 
 .icons img {
